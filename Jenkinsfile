@@ -1,15 +1,19 @@
+
+Jenkinsfile (Declarative Pipeline)
+
 pipeline {
     agent any
-
-    triggers{
-        bitbucketPush()
-    }
-    
     stages {
-		stage ("build") {
-        	steps {
-            	// ..
+        stage('Test') {
+            steps {
+                sh './gradlew check'
             }
         }
     }
+    post {
+        always {
+            junit 'build/reports/**/*.xml'
+        }
+    }
 }
+
