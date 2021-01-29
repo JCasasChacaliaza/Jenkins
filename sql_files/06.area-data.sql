@@ -1,0 +1,10 @@
+INSERT INTO public.area (codare, nomare, estare) VALUES (1, 'd''area1', 'A');
+INSERT INTO public.area (codare, nomare, estare) VALUES (2, 'd''area2', 'A');
+INSERT INTO public.area (codare, nomare, estare) VALUES (3, 'd''area3', 'A');
+INSERT INTO public.area (codare, nomare, estare) VALUES (4, 'd''area4', 'A');
+INSERT INTO public.area (codare, nomare, estare) VALUES (5, 'd''area5', 'A');
+INSERT INTO public.area (codare, nomare, estare) VALUES (6, 'd''area6', 'A');
+INSERT INTO public.area (codare, nomare, estare) VALUES (7, 'd''area7', 'A');
+INSERT INTO public.area (codare, nomare, estare) VALUES (8, 'd''area8', 'A');
+INSERT INTO public.area (codare, nomare, estare) VALUES (9, 'd''area9', 'A');
+INSERT INTO public.area (codare, nomare, estare) VALUES (10, 'd''area10', 'A');

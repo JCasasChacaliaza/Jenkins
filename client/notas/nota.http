@@ -1,0 +1,4 @@
+GET http://{{server}}/notas?idper=1&codmat=1
+Accept: application/json
+
+###

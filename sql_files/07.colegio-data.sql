@@ -1,0 +1,6 @@
+INSERT INTO public.colegio (idcol, dircol, nomcol, frecrep, insigcol, numug, estcol) VALUES (2, 'Avenida lima 200 - San Vicente de Cañete', '20187 Jose Hipolito Unanu', '1', 'insginia 1', 8, 'A');
+INSERT INTO public.colegio (idcol, dircol, nomcol, frecrep, insigcol, numug, estcol) VALUES (3, 'Jirón tacna 185-187 - San Vicente de Cañ', '20190 Republica de Chile', '1', 'insginia 1', 8, 'A');
+INSERT INTO public.colegio (idcol, dircol, nomcol, frecrep, insigcol, numug, estcol) VALUES (4, 'Fundo san tustio - San Vicente de Cañete', '20191 Alfonso Ugarte', '1', 'insginia 1', 8, 'A');
+INSERT INTO public.colegio (idcol, dircol, nomcol, frecrep, insigcol, numug, estcol) VALUES (5, 'C.p. nuevo ayacucho km 176.5 - San Vicen', '20975 Andres Avelino Cace', '1', 'insginia 1', 8, 'A');
+INSERT INTO public.colegio (idcol, dircol, nomcol, frecrep, insigcol, numug, estcol) VALUES (1, 'Avenida los libertadores 1410', '20189 NUESTRA SEÑORA DE LA CONCEPCION', '1', 'insginia 1', 8, 'A');
+INSERT INTO public.colegio (idcol, dircol, nomcol, frecrep, insigcol, numug, estcol) VALUES (6, 'Santa Cruz de Flores', '20194 JESUS DIVINO MAESTRO', '1', 'insginia 1', 8, 'A');
