@@ -1,0 +1,12 @@
+language: java
+sudo: false
+install: true
+
+jdk:
+  - openjdk8
+
+script:
+  - mvn sonar:sonar \
+	-Dsonar.projectKey=org.springframework.boot \ 
+	-Dsonar.host.url=http://34.122.146.44:9000 \ 
+	-Dsonar.login=a3d1e6788c9737639e0b3ba38c359ae499ae2896
